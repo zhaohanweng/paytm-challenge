@@ -9,6 +9,7 @@ Using Ruby on Rails for this challenge, since RoR provides a easy to setup web f
 ### Setup
 
 ```
+bundle
 rails db:create
 rails db:migrate
 rails s
