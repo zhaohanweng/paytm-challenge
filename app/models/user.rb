@@ -6,4 +6,5 @@ class User < ApplicationRecord
                     uniqueness: { case_sensitive: false },
                     format: { with: /\A[^@]+@([^@\.]+\.)+[^@\.]+\z/ }
 
+  has_many :histories
 end

@@ -1,0 +1,489 @@
+{
+  "statuses": [
+    {
+      "created_at": "Mon Aug 07 19:26:23 +0000 2017",
+      "id": 894640885018877954,
+      "id_str": "894640885018877954",
+      "text": "the easiest test I ever had to do    https://t.co/AVGdzFCSw7 #NowPlaying",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NowPlaying",
+            "indices": [
+              61,
+              72
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AVGdzFCSw7",
+            "expanded_url": "https://open.spotify.com/track/2xRU6juKQQHGPYEANoKEk4",
+            "display_url": "open.spotify.com/track/2xRU6juK…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 33018977,
+        "id_str": "33018977",
+        "name": "Laura Lorson",
+        "screen_name": "prairielaura",
+        "location": "northeast Kansas, USA",
+        "description": "Opinions personal, retweets ≠ endorsement. Native Kentuckian; current Kansan. Target for faraway laughter. Awaiting the sensation of a short, sharp shock.",
+        "url": "https://t.co/rHH96MHVPJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rHH96MHVPJ",
+                "expanded_url": "https://soundcloud.com/lowkeyfabulous",
+                "display_url": "soundcloud.com/lowkeyfabulous",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1565,
+        "friends_count": 811,
+        "listed_count": 70,
+        "created_at": "Sat Apr 18 21:30:50 +0000 2009",
+        "favourites_count": 24911,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 39300,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "56225B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/306845195/x3f3a3d200aad220809751bb06890ae9.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/306845195/x3f3a3d200aad220809751bb06890ae9.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891511197366931456/-ffGANkz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891511197366931456/-ffGANkz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33018977/1452702841",
+        "profile_link_color": "661A6F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C1DCCF",
+        "profile_text_color": "0F9677",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 07 19:26:22 +0000 2017",
+      "id": 894640882430885888,
+      "id_str": "894640882430885888",
+      "text": "RT @SarahLerner: Y'all. This is why we need more women in office: https://t.co/KvGPKPqOvh https://t.co/RxIpMZm09g",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SarahLerner",
+            "name": "Sarah Lerner",
+            "id": 90711442,
+            "id_str": "90711442",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KvGPKPqOvh",
+            "expanded_url": "http://www.huffingtonpost.com/entry/california-gov-says-abortion-rights-shouldnt-be-a-litmus-test-for-democrats_us_59887027e4b041356ec11759",
+            "display_url": "huffingtonpost.com/entry/californ…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 894638449738752000,
+            "id_str": "894638449738752000",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+            "url": "https://t.co/RxIpMZm09g",
+            "display_url": "pic.twitter.com/RxIpMZm09g",
+            "expanded_url": "https://twitter.com/SarahLerner/status/894638466868232193/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1436,
+                "h": 642,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 304,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 894638466868232193,
+            "source_status_id_str": "894638466868232193",
+            "source_user_id": 90711442,
+            "source_user_id_str": "90711442"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 894638449738752000,
+            "id_str": "894638449738752000",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+            "url": "https://t.co/RxIpMZm09g",
+            "display_url": "pic.twitter.com/RxIpMZm09g",
+            "expanded_url": "https://twitter.com/SarahLerner/status/894638466868232193/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1436,
+                "h": 642,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 304,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 894638466868232193,
+            "source_status_id_str": "894638466868232193",
+            "source_user_id": 90711442,
+            "source_user_id_str": "90711442"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 72076895,
+        "id_str": "72076895",
+        "name": "scarletsusieq",
+        "screen_name": "scarletsusieq",
+        "location": "Bay Area",
+        "description": "I used to be a Liberal Democrat Love for the Earth and all People living on it! Social Justice and Tax Fairness and  #NeverBernie#BLACKLIVESMATTER #StillWithHer",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2339,
+        "friends_count": 3598,
+        "listed_count": 138,
+        "created_at": "Sun Sep 06 17:08:59 +0000 2009",
+        "favourites_count": 81201,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 100135,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891764347638136832/zqvLNhsd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891764347638136832/zqvLNhsd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/72076895/1479491036",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 07 19:16:46 +0000 2017",
+        "id": 894638466868232193,
+        "id_str": "894638466868232193",
+        "text": "Y'all. This is why we need more women in office: https://t.co/KvGPKPqOvh https://t.co/RxIpMZm09g",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/KvGPKPqOvh",
+              "expanded_url": "http://www.huffingtonpost.com/entry/california-gov-says-abortion-rights-shouldnt-be-a-litmus-test-for-democrats_us_59887027e4b041356ec11759",
+              "display_url": "huffingtonpost.com/entry/californ…",
+              "indices": [
+                49,
+                72
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 894638449738752000,
+              "id_str": "894638449738752000",
+              "indices": [
+                73,
+                96
+              ],
+              "media_url": "http://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+              "url": "https://t.co/RxIpMZm09g",
+              "display_url": "pic.twitter.com/RxIpMZm09g",
+              "expanded_url": "https://twitter.com/SarahLerner/status/894638466868232193/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 536,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1436,
+                  "h": 642,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 304,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 894638449738752000,
+              "id_str": "894638449738752000",
+              "indices": [
+                73,
+                96
+              ],
+              "media_url": "http://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DGpk7hcVoAA_xUL.jpg",
+              "url": "https://t.co/RxIpMZm09g",
+              "display_url": "pic.twitter.com/RxIpMZm09g",
+              "expanded_url": "https://twitter.com/SarahLerner/status/894638466868232193/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 536,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1436,
+                  "h": 642,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 304,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 90711442,
+          "id_str": "90711442",
+          "name": "Sarah Lerner",
+          "screen_name": "SarahLerner",
+          "location": "",
+          "description": "Now: @hellbentpod | Then: @MLS & @workpop | Always: snacking | Medium: 'sarahrlerner'",
+          "url": "https://t.co/Rn3gU8T5Ad",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/Rn3gU8T5Ad",
+                  "expanded_url": "http://apple.co/2kxtK9O",
+                  "display_url": "apple.co/2kxtK9O",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 30276,
+          "friends_count": 843,
+          "listed_count": 451,
+          "created_at": "Tue Nov 17 20:27:06 +0000 2009",
+          "favourites_count": 97096,
+          "utc_offset": -28800,
+          "time_zone": "Alaska",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 36637,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "70B6EB",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593560591/8kpwajaf5fg5jei7ua8s.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593560591/8kpwajaf5fg5jei7ua8s.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/760702415280701440/cnNVvlOr_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/760702415280701440/cnNVvlOr_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/90711442/1498955081",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 60,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ]
+}

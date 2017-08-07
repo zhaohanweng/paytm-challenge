@@ -10,6 +10,8 @@ Rails.application.routes.draw do
     resources :users, only: [:create, :update]
 
     get 'helloworld', to: 'hello_world#index'
+    get 'search', to: 'search#search'
+    get 'histories', to: 'histories#index'
     post 'login', to: 'authentication#authenticate'
   end
 end

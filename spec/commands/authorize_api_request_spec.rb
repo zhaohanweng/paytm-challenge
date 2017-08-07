@@ -5,7 +5,7 @@ describe AuthorizeApiRequest do
     user = create(:user)
 
     token = AuthenticateUser.call(user.email,  '123').result
-    result = AuthorizeApiRequest.call('Authorization' => 'bearer ' + token).result
+    result = AuthorizeApiRequest.call('Authorization' => token).result
     expect(result.email).to eq user.email
   end
 

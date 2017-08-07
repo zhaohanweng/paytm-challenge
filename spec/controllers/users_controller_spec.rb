@@ -34,24 +34,22 @@ describe UsersController do
       expect(response.status).to eq 401
     end
 
-    it "updates and returns user json" do
-      created_user = create(:user)
+    context "user logged in" do
+      include_context "authenticated_user"
 
-      allow(AuthorizeApiRequest).to receive_message_chain(:call, :result).and_return(created_user)
-      patch :update, params: { id: created_user.id, user: user_params }
-      expect(response.status).to eq 200
-      expect(response_json[:name]).to eq user_params[:name]
-      expect(response_json[:email]).to eq created_user.email
-    end
+      it "updates and returns user json" do
+        patch :update, params: { id: authenticated_user.id, user: user_params }
+        expect(response.status).to eq 200
+        expect(response_json[:name]).to eq user_params[:name]
+        expect(response_json[:email]).to eq authenticated_user.email
+      end
 
-    it "does not updates other user json" do
-      created_user = create(:user)
-
-      allow(AuthorizeApiRequest).to receive_message_chain(:call, :result).and_return(created_user)
-      patch :update, params: { id: user.id, user: user_params }
-      expect(response.status).to eq 200
-      expect(response_json[:name]).to eq created_user.name
-      expect(response_json[:email]).to eq created_user.email
+      it "does not updates other user json" do
+        patch :update, params: { id: user.id, user: user_params }
+        expect(response.status).to eq 200
+        expect(response_json[:name]).to eq authenticated_user.name
+        expect(response_json[:email]).to eq authenticated_user.email
+      end
     end
   end
 end
