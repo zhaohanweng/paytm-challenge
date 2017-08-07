@@ -1,5 +1,4 @@
 require 'rails_helper'
-require 'support/response_helpers'
 
 describe UsersController do
   describe "POST #create" do
