@@ -1,4 +1,9 @@
 class SearchController < ApplicationController
+
+  api :GET, '/search', 'Searches twitter api with keyword, require authentication'
+  param :keyword, String
+  param :size, :number, desc: 'Search result size'
+  param :feeling_lucky, [true, false], desc: 'Search random keyword if set'
   def search
     params[:keyword] = lucky_keyword if (params[:feeling_lucky] == 'true')
 
