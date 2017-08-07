@@ -13,4 +13,6 @@
 !/log/.keep
 !/tmp/.keep
 
+spec/examples.txt
+
 .byebug_history
